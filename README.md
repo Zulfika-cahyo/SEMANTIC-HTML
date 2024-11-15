@@ -1,5 +1,5 @@
 # SEMANTIC-HTML
-Latihan Praktikum 1 SEMANTIC HTML
+Latihan Praktikum 1 SEMANTIC HTML 
 
 ## SEMANTIC HTML Project
 Project ini menggunakan elemen-elemen semantik untuk menciptakan struktur halaman yang lebih terorganisir dan mudah dipahami oleh mesin pencari serta pengguna. Diawali dengan <!DOCTYPE html> yang menunjukkan standar HTML5, elemen <html lang="en"> menyatakan bahasa dokumen. Bagian <head> mencakup metadata, judul halaman, dan tautan ke file CSS eksternal. Judul utama halaman berada dalam elemen <header>, sementara <nav> menyediakan navigasi dengan tautan seperti "Home" dan "Pengertian." Konten utama ditempatkan dalam <section>, sedangkan bagian bawah halaman, <footer>, berisi teks hak cipta. Penggunaan elemen-elemen semantik ini mempermudah struktur halaman bagi pembaca dan meningkatkan aksesibilitas serta SEO halaman.
